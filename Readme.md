@@ -288,15 +288,18 @@ The demonstration includes:
 📷 Screenshots
 Langfuse Trace Dashboard
 
-![Dashboard](./dashboard.png)
+![Trace Dashboard](./traces1.png)
+![Trace Dashboard](./traces2.png)
+
 
 Execution Logs
 
-(Insert terminal screenshot here)
+![Execution logs](.terminal1.png)
+![Execution logs](.terminal2.png)
 
 Cost Dashboard
 
-(Insert Langfuse cost screenshot here)
+![Dashboard](./dashboard.png)
 
 📚 Conclusion
 
