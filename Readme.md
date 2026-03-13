@@ -1,4 +1,3 @@
-<img width="860" height="639" alt="image" src="https://github.com/user-attachments/assets/9ed12ee0-3a3f-422b-abb8-a37bcb14efff" />ARTEMIS Tool Analysis Report
 
 Autonomous Security Analysis of OWASP Juice Shop using ARTEMIS and Langfuse
 
