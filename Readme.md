@@ -288,7 +288,7 @@ The demonstration includes:
 📷 Screenshots
 Langfuse Trace Dashboard
 
-![[dashboard.png]]
+![Dashboard](./dashboard.png)
 
 Execution Logs
 
