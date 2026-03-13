@@ -294,8 +294,8 @@ Langfuse Trace Dashboard
 
 Execution Logs
 
-![Execution logs](.terminal1.png)
-![Execution logs](.terminal2.png)
+![terminal](.terminal1.png)
+![terminal](.terminal2.png)
 
 Cost Dashboard
 
