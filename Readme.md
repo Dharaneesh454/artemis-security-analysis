@@ -1,7 +1,7 @@
 🛡️ ARTEMIS Security Analysis Report
 Autonomous AI-Driven Vulnerability Analysis using Langfuse Observability
 
-Author: Dharaneesh V
+Author: V Dharaneesh 
 
 Framework: ARTEMIS
 
