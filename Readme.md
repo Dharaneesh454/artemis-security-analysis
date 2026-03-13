@@ -2,8 +2,11 @@
 Autonomous AI-Driven Vulnerability Analysis using Langfuse Observability
 
 Author: Dharaneesh V
+
 Framework: ARTEMIS
+
 Target Application: OWASP Juice Shop
+
 Model Used: azure/gpt-4.1-mini
 
 📌 Project Overview
@@ -12,15 +15,15 @@ This project analyzes the ARTEMIS autonomous security testing framework, focusin
 
 The framework uses LLM-driven agents coordinated by a Supervisor Agent to perform:
 
-reconnaissance
+1. reconnaissance
 
-vulnerability analysis
+2. vulnerability analysis
 
-exploit generation
+3. exploit generation
 
-runtime monitoring
+4. runtime monitoring
 
-automated decision making
+5. automated decision making
 
 All LLM interactions and execution traces were captured using Langfuse observability.
 
@@ -52,14 +55,14 @@ ARTEMIS follows a multi-agent orchestration architecture where a central supervi
                           │
       ┌──────────────┬──────────────┬───────────────┐
       ▼              ▼              ▼
- Recon Agent     Exploit Agents    Log Analyzer
+      Recon Agent     Exploit Agents    Log Analyzer
                    │
        ┌───────────┴───────────┐
        ▼           ▼           ▼
-   XSS Agent   InfoLeak Agent  PrivEsc Agent
+       XSS Agent   InfoLeak Agent  PrivEsc Agent
                    │
               Codex Engine
-                   │
+                   │ 
                Langfuse
 
 The Supervisor Agent controls the workflow and decides which specialized agent should execute the next action.
